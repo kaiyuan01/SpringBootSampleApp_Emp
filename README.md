@@ -6,5 +6,7 @@ This is a Spring Boot sample app. The resulting artifact serves restful APIs for
 Please see [the image](https://1drv.ms/u/s!AubgbBOuCmokjxsNJ6cr9CD3wwUf) for details.
 
 !![H2 Database/data used for this project](https://1drv.ms/u/s!AubgbBOuCmokjxsNJ6cr9CD3wwUf)
-
+<div align="center">
+    <img src="https://1drv.ms/u/s!AubgbBOuCmokjxsNJ6cr9CD3wwUf" width="400px"</img> 
+</div>
 # Test cases for this project
