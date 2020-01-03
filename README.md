@@ -1,6 +1,6 @@
 
 [![npm](https://img.shields.io/npm/v/@wenyanlang/core)](https://www.npmjs.com/package/@wenyanlang/core)
-[![build](https://img.shields.io/github/workflow/status/LingDong-/wenyan-lang/Build%20%26%20Test)](https://github.com/LingDong-/wenyan-lang/actions)
+[![build](https://img.shields.io/github/workflow/status/kaiyuan01/springboot_emp/Build%20%26%20Test)](https://github.com/kaiyuan01/springboot_emp/actions)
 
 # springboot_emp
 This is a Spring Boot sample app. The resulting artifact serves restful APIs for all CRUD operations.
