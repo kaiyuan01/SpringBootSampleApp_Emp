@@ -28,3 +28,4 @@ target/test-classes/com/dengsoft/tutorial/springboot/emp/EmployeeRepositoryInteg
 target/test-classes/com/dengsoft/tutorial/springboot/emp/EmployeeRestControllerIntegrationTest.class
 target/test-classes/com/dengsoft/tutorial/springboot/emp/EmployeeServiceImplIntegrationTest.class
 target/test-classes/com/dengsoft/tutorial/springboot/emp/EmployeeServiceImplIntegrationTest$EmployeeServiceImplTestContextConfiguration.class
+target/surefire-reports/2024-03-22T20-56-50_145.dumpstream
